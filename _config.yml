@@ -1,0 +1,8 @@
+title: Fartscroll.js
+description: You want fart noises as you scroll? We've got you covered.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
